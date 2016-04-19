@@ -1,7 +1,3 @@
----
-title:	How To Create Chrome Extension In 5 Minutes
----
-
 # How To Create Chrome Extension In 5 Minutes
 
 
@@ -137,5 +133,5 @@ Enjoy the result. That's it!
 [wikiext]: https://en.wikipedia.org/wiki/Google_Chrome_extension
 [yeoman]: https://github.com/yeoman/generator-chrome-extension
 [imgtinter]: https://github.com/aibolik/img-tinter-chrome-extension
-[devmode]: {{ site.baseurl }}/images/developermode.png
-[imgtinterscreenshot]: {{ site.baseurl }}/images/imgtinter.png
+[devmode]: http://aibolik.github.io/images/developermode.png
+[imgtinterscreenshot]: http://aibolik.github.io/images/imgtinter.png
